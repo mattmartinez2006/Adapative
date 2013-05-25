@@ -1,0 +1,74 @@
+@import "reset.css";
+
+body {
+  background-color: black;
+}
+
+
+/*
+  ***********************
+  =Header
+  ***********************
+*/
+
+
+.header h1 {
+  color: white;
+  float: left;
+}
+
+.nav li {
+  color: #fff;
+  float: right;
+  padding-left: 23px;
+}
+
+
+/*
+  ***********************
+  =Banner
+  ***********************
+*/
+
+
+.banner-text {
+  color: white;
+}
+
+
+/*
+  ***********************
+  =Content
+  ***********************
+*/
+
+.content .column {
+  color: gray;
+}
+
+.content .column h3 {
+  color: #fff;
+}
+
+
+/*
+  ***********************
+  =Quote
+  ***********************
+*/
+
+.quote {
+  color: gray;
+}
+
+.quotation-mark {
+  color: white;
+}
+
+.author {
+  color: white;
+}
+
+.author-title {
+  color: gray;
+}
